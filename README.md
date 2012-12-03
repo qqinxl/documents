@@ -1,6 +1,6 @@
 #README.md
 
-This is not a project and just a developer's document like blog.
+This is not a project and just some notes like blog.
 
 
 ### [Wiki] ###
